@@ -1,2 +1,3 @@
-# password-generator
-generates random password between 8-128 characters
+# Password Generator Starter Code
+This password generator is a simple program that generates a random password based on user-selected criteria. This app will run in the browser and feature dynamically updated HTML and CSS powered by JavaScript code. It will have a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.
+Password generated will be 8 to 128 chracters in length based on the Users input to the prompts.  If the User does not input anything at this prompt the default value of 8 will be generated. The password will contain at least one character type selected by the user. The user will be able to select which character types to include in the password.
